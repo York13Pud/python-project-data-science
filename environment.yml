@@ -15,6 +15,7 @@ dependencies:
   - debugpy=1.5.1=py310he9d5cce_0
   - decorator=5.1.1=pyhd3eb1b0_0
   - entrypoints=0.4=py310hecd8cb5_0
+  - et_xmlfile=1.1.0=py310hecd8cb5_0
   - executing=0.8.3=pyhd3eb1b0_0
   - fonttools=4.25.0=pyhd3eb1b0_0
   - freetype=2.11.0=hd8bbffd_0
@@ -49,6 +50,7 @@ dependencies:
   - numexpr=2.8.3=py310hdcd3fac_0
   - numpy=1.22.3=py310hdcd3fac_0
   - numpy-base=1.22.3=py310hfd2de13_0
+  - openpyxl=3.0.10=py310hca72f7f_0
   - openssl=1.1.1q=hca72f7f_0
   - packaging=21.3=pyhd3eb1b0_0
   - pandas=1.4.3=py310he9d5cce_0
@@ -77,6 +79,7 @@ dependencies:
   - tzdata=2022a=hda174b7_0
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - wheel=0.37.1=pyhd3eb1b0_0
+  - xlsxwriter=3.0.3=pyhd3eb1b0_0
   - xz=5.2.5=hca72f7f_1
   - zeromq=4.3.4=h23ab428_0
   - zlib=1.2.12=h4dc903c_2
